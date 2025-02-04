@@ -1,0 +1,30 @@
+[
+    {
+        "title": "User Authentication",
+        "description": "Secure user authentication with email and password, including password recovery and multi-factor authentication."
+    },
+    {
+        "title": "Responsive Design",
+        "description": "A responsive design that ensures the application looks great on all devices, including desktops, tablets, and smartphones."
+    },
+    {
+        "title": "Real-time Notifications",
+        "description": "Real-time notifications to keep users informed about important updates and events."
+    },
+    {
+        "title": "Data Analytics",
+        "description": "Comprehensive data analytics to help users make informed decisions based on their data."
+    },
+    {
+        "title": "API Integration",
+        "description": "Seamless integration with third-party APIs to extend the functionality of the application."
+    },
+    {
+        "title": "User Management",
+        "description": "Advanced user management features, including role-based access control and user activity tracking."
+    },
+    {
+        "title": "Customizable Dashboard",
+        "description": "A customizable dashboard that allows users to personalize their experience and access the information they need quickly."
+    }
+]

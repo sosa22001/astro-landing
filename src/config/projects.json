@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Project Alpha",
+        "description": "This is the first project of our web app, focusing on user authentication and security.",
+        "image": "finger.svg"
+    },
+    {
+        "title": "Project Beta",
+        "description": "This project aims to enhance the user interface and user experience of the web app.",
+        "image": "finger.svg"
+    },
+    {
+        "title": "Project Gamma",
+        "description": "This project involves integrating third-party APIs to extend the functionality of the web app.",
+        "image": "finger.svg"
+    },
+    {
+        "title": "Project Delta",
+        "description": "This project focuses on optimizing the performance and scalability of the web app.",
+        "image": "finger.svg"
+    }
+]

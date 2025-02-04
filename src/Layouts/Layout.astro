@@ -1,0 +1,26 @@
+---
+import Footer from '../components/landing/Footer.astro'
+
+interface Props{
+    title?: string
+}
+
+const {title} = Astro.props
+
+    import '../styles/Layout.css'
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+</head>
+<body class="bg-zinc-950">
+    <main class="mx-auto container text-white">
+        <slot />
+    </main>
+    <Footer/>
+</body>
+</html>
